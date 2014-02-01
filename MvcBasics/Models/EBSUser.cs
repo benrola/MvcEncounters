@@ -7,6 +7,6 @@ namespace MvcBasics.Models
 {
     public class EBSUser
     {
-     
+        public static string UserName { get; set; }
     }
 }
